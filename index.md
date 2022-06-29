@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages of the first Symbiotic Functional Language !
+![Image](src) 
 
-You can use the [editor on GitHub](https://github.com/Vdloisem/lambda_symbiosis.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## The first Symbiotic Functional Language !
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Lambda-Symbiosis is a functional language that aims to allow an easier realization of a symbiotic relationship between programming languages of different paradigms. This language is developed within the framework of a master's thesis in computer science and is intended to be an original contribution by its angle of attack concerning a problem not yet solved in the software industry. This language is syntactically simple and concise while not restricting the freedom of programming.
 
 ### Markdown
 
