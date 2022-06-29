@@ -1,4 +1,4 @@
-![Logo](SYMBIOT(1).png) 
+![Logo](SYMBIOT(1).png =100x100) 
 
 ## The first Symbiotic Functional Language !
 
