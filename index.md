@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages of the first Symbiotic Functional Language !
 
 You can use the [editor on GitHub](https://github.com/Vdloisem/lambda_symbiosis.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
