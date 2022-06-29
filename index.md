@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="SYMBIOT(1).png" alt="drawing" width="200"/>>
+  <img src="SYMBIOT(1).png" alt="drawing" width="200"/>
 </p>
 
 ## The first Symbiotic Functional Language !
