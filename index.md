@@ -2,6 +2,26 @@
   <img src="SYMBIOT(1).png" alt="drawing" width="200"/>
 </p>
 
+<nav>
+    <ul>
+        <li class="logo"><img src="https://i.imgur.com/E26Pj54.png"></li>
+        <li><a href="#"><i class="fa fa-home"></i>&nbsp;  Home</a></li>
+        <li><a href="#"><i class="fa fa-book"></i>&nbsp;  Book</a></li>
+        <li><a href="#"><i class="fa fa-users"></i>&nbsp;  Users</a></li>
+        <li><a href="#"><i class="fa fa-picture-o"></i>&nbsp;  Pictures</a></li>
+        <li><a href="#"><i class="fa fa-phone"></i>&nbsp; Contact</a></li>
+    </ul>
+</nav>
+
+<div class="wrapper">
+    <div class="section">
+        <div class="box-area">
+            <h2>Home</h2>
+        </div>
+        
+    </div>
+</div>
+
 ## The first Symbiotic Functional Language !
 
 Lambda-Symbiosis is a functional language that aims to allow an easier realization of a symbiotic relationship between programming languages of different paradigms. This language is developed within the framework of a master's thesis in computer science and is intended to be an original contribution by its angle of attack concerning a problem not yet solved in the software industry. This language is syntactically simple and concise while not restricting the freedom of programming.
