@@ -1,26 +1,25 @@
-<p align="center">
-  <img src="SYMBIOT(1).png" alt="drawing" width="200"/>
-</p>
-
-<nav>
-    <ul>
-        <li class="logo"><img src="https://i.imgur.com/E26Pj54.png"></li>
-        <li><a href="#"><i class="fa fa-home"></i>&nbsp;  Home</a></li>
-        <li><a href="#"><i class="fa fa-book"></i>&nbsp;  Book</a></li>
-        <li><a href="#"><i class="fa fa-users"></i>&nbsp;  Users</a></li>
-        <li><a href="#"><i class="fa fa-picture-o"></i>&nbsp;  Pictures</a></li>
-        <li><a href="#"><i class="fa fa-phone"></i>&nbsp; Contact</a></li>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="#">Navbar</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Features</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Pricing</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link disabled" href="#">Disabled</a>
+      </li>
     </ul>
+  </div>
 </nav>
-
-<div class="wrapper">
-    <div class="section">
-        <div class="box-area">
-            <h2>Home</h2>
-        </div>
-        
-    </div>
-</div>
 
 ## The first Symbiotic Functional Language !
 
