@@ -1,33 +1,5 @@
-<head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-        <!-- Bootstrap core CSS -->
-        <link href="/static/css/bootstrap.min.css" rel="stylesheet">
-        <link rel="icon" href="data:,">
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
-              integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-
-</head>
-
-<nav class="navbar navbar-expand-sm bg-light">
-
-  <!-- Links -->
-  <ul class="navbar-nav">
-    <li class="nav-item">
-      <a class="nav-link" href="#">Link 1</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="#">Link 2</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="#">Link 3</a>
-    </li>
-  </ul>
-
-</nav>
-
-### A first Symbiotic Functional Language!
+## A first Symbiotic Functional Language!
 
 Lambda-Symbiosis is a functional language that aims to allow an easier realization of a symbiotic relationship between programming languages of different paradigms. This language is developed within the framework of a master's thesis in computer science and is intended to be an original contribution by its angle of attack concerning a problem not yet solved in the software industry. This language is syntactically simple and concise while not restricting the freedom of programming.
 
