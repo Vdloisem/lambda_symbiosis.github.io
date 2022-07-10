@@ -3,4 +3,19 @@ theme: jekyll-theme-minimal
 title: Lambda Symbiosis
 description: The first Symbiotic Functional Language !
 
+image:
+  source: assets/images/LBS_Logo.png
+  output: generated
+  presets:
+    # Proportional preset
+    users:
+      attr:
+        class: user-portrait
+        itemprop: image
+      width: 350
+    # Scaled and cropped preset
+    half:
+      width: 400
+      height: 400
+
 e-mail: mikel.vandeloise@student.unamur.be
