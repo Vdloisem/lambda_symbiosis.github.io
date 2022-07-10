@@ -28,7 +28,7 @@
 
 </nav>
 
-## The first Symbiotic Functional Language !
+### The first Symbiotic Functional Language !
 
 Lambda-Symbiosis is a functional language that aims to allow an easier realization of a symbiotic relationship between programming languages of different paradigms. This language is developed within the framework of a master's thesis in computer science and is intended to be an original contribution by its angle of attack concerning a problem not yet solved in the software industry. This language is syntactically simple and concise while not restricting the freedom of programming.
 
